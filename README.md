@@ -1,2 +1,2 @@
 # APICarro
-API com Node.JS e MySql - CRUD
+API com Node.JS e MySQL - CRUD
